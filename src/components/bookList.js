@@ -18,8 +18,8 @@ const BookList = props => {
                                 <td>{item.name}</td>
                                 <td>{item.author}</td>
                                 <td>
-                                    <button className = "button muted-button">Edit</button>
-                                    <button onClick = {()=>props.deleteBook(item.id)} className = "button muted-button">Delete</button>
+                                    <button onClick = {()=> props.editRow(item) } className = "button muted-button">Edit</button>
+                                    <button onClick = {()=> props.deleteBook(item.id) } className = "button muted-button">Delete</button>
                                 </td>
                             </tr>
                         ))

@@ -24,9 +24,9 @@ const AddBook = props => {
             }}
         >
             <label>Name</label>
-            <input type = "text" name = "name" value = {book.name} onChange = {handleChange}></input>
+            <input type = "text" name = "name" value = {book.name} onChange = {handleChange} />
             <label>Author</label>
-            <input type = "text" name = "author" value = {book.author} onChange = {handleChange}></input>
+            <input type = "text" name = "author" value = {book.author} onChange = {handleChange} />
             <br/>
             <button>Add new book</button>
         </form>

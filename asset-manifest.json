@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Reactive-Book-Store/static/css/main.f5a24af9.chunk.css",
+    "main.js": "/Reactive-Book-Store/static/js/main.d80e9024.chunk.js",
+    "main.js.map": "/Reactive-Book-Store/static/js/main.d80e9024.chunk.js.map",
+    "runtime~main.js": "/Reactive-Book-Store/static/js/runtime~main.474e741d.js",
+    "runtime~main.js.map": "/Reactive-Book-Store/static/js/runtime~main.474e741d.js.map",
+    "static/js/2.c4b73a1c.chunk.js": "/Reactive-Book-Store/static/js/2.c4b73a1c.chunk.js",
+    "static/js/2.c4b73a1c.chunk.js.map": "/Reactive-Book-Store/static/js/2.c4b73a1c.chunk.js.map",
+    "index.html": "/Reactive-Book-Store/index.html",
+    "precache-manifest.6e63d7a7731e8f392900cfe945ead707.js": "/Reactive-Book-Store/precache-manifest.6e63d7a7731e8f392900cfe945ead707.js",
+    "service-worker.js": "/Reactive-Book-Store/service-worker.js",
+    "static/css/main.f5a24af9.chunk.css.map": "/Reactive-Book-Store/static/css/main.f5a24af9.chunk.css.map"
+  }
+}

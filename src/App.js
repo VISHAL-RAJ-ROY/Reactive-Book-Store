@@ -13,8 +13,11 @@ const App = () => {
 
   const [bookList, setBookList] = useState(initialList)
 
-  const deleteBook = (bookId) => {
-    setBookList(bookList.filter(item => item.id !== bookId))
+  const deleteBook = bookId => setBookList(bookList.filter(item => item.id !== bookId))
+
+  const addBook = book => {
+    book.id = bookList.length+1
+    setBookList([...bookList, book])
   }
 
   return (
@@ -23,6 +26,7 @@ const App = () => {
       <div className="flex-row">
         <div className="flex-large">
           <h2>Add Book</h2>
+          <AddBook addBook = {addBook} />
         </div>
         <div className="flex-large">
           <h2>View Book</h2>

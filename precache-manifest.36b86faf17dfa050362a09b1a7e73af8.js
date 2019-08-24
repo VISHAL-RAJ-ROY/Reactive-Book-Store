@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d702d015b1140fc069b4b4a78757e66e",
+    "revision": "d92c45bdadc57f8c4b2672b3914ff0c2",
     "url": "/Reactive-Book-Store/index.html"
   },
   {

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Reactive-Book-Store/static/css/main.f5a24af9.chunk.css",
-    "main.js": "/Reactive-Book-Store/static/js/main.d80e9024.chunk.js",
-    "main.js.map": "/Reactive-Book-Store/static/js/main.d80e9024.chunk.js.map",
+    "main.js": "/Reactive-Book-Store/static/js/main.a42de279.chunk.js",
+    "main.js.map": "/Reactive-Book-Store/static/js/main.a42de279.chunk.js.map",
     "runtime~main.js": "/Reactive-Book-Store/static/js/runtime~main.474e741d.js",
     "runtime~main.js.map": "/Reactive-Book-Store/static/js/runtime~main.474e741d.js.map",
     "static/js/2.c4b73a1c.chunk.js": "/Reactive-Book-Store/static/js/2.c4b73a1c.chunk.js",
     "static/js/2.c4b73a1c.chunk.js.map": "/Reactive-Book-Store/static/js/2.c4b73a1c.chunk.js.map",
     "index.html": "/Reactive-Book-Store/index.html",
-    "precache-manifest.36b86faf17dfa050362a09b1a7e73af8.js": "/Reactive-Book-Store/precache-manifest.36b86faf17dfa050362a09b1a7e73af8.js",
+    "precache-manifest.5064fd46837ba0bb024ed441eb3e5a14.js": "/Reactive-Book-Store/precache-manifest.5064fd46837ba0bb024ed441eb3e5a14.js",
     "service-worker.js": "/Reactive-Book-Store/service-worker.js",
     "static/css/main.f5a24af9.chunk.css.map": "/Reactive-Book-Store/static/css/main.f5a24af9.chunk.css.map"
   }

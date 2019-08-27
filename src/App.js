@@ -16,6 +16,7 @@ const App = () => {
   const [bookList, setBookList] = useState(initialList)
   const [isEditMode, setEdit] = useState(false)
   const [currentBook, setCurrentBook] = useState(initialBook)
+  const [listLength, setBookListLength] = useState(3)
 
   const deleteBook = bookId => {
     setEdit(false)
@@ -33,7 +34,8 @@ const App = () => {
   }
 
   const addBook = book => {
-    book.id = bookList.length+1
+    book.id = listLength+1
+    setBookListLength(book.id)
     setBookList([...bookList, book])
   }
 

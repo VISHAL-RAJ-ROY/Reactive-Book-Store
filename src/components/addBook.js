@@ -18,7 +18,7 @@ const AddBook = props => {
         <form
             onSubmit = {event => {
                 event.preventDefault()
-                if( book.name === '' || book.author == '' ) return
+                if( book.name === '' || book.author === '' ) return
                 props.addBook(book)
                 setBook(initialBook)
             }}
